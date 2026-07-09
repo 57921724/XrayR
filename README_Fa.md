@@ -1,14 +1,12 @@
 # XrayR
 
-[![](https://img.shields.io/badge/TgChat-@XrayR讨论-blue.svg)](https://t.me/XrayR_project)
-[![](https://img.shields.io/badge/Channel-@XrayR通知-blue.svg)](https://t.me/XrayR_channel)
-![](https://img.shields.io/github/stars/XrayR-project/XrayR)
-![](https://img.shields.io/github/forks/XrayR-project/XrayR)
-![](https://github.com/XrayR-project/XrayR/actions/workflows/release.yml/badge.svg)
-![](https://github.com/XrayR-project/XrayR/actions/workflows/docker.yml/badge.svg)
-[![Github All Releases](https://img.shields.io/github/downloads/XrayR-project/XrayR/total.svg)]()
+![](https://img.shields.io/github/stars/57921724/XrayR)
+![](https://img.shields.io/github/forks/57921724/XrayR)
+![](https://github.com/57921724/XrayR/actions/workflows/release.yml/badge.svg)
+![](https://github.com/57921724/XrayR/actions/workflows/docker.yml/badge.svg)
+[![Github All Releases](https://img.shields.io/github/downloads/57921724/XrayR/total.svg)]()
 
-[Iranian(farsi) README](https://github.com/XrayR-project/XrayR/blob/master/README_Fa.md), [Vietnamese(vi) README](https://github.com/XrayR-project/XrayR/blob/master/README-vi.md), [English(en) README](https://github.com/XrayR-project/XrayR/blob/master/README-en.md)
+[Iranian(farsi) README](https://github.com/57921724/XrayR/blob/master/README_Fa.md), [Vietnamese(vi) README](https://github.com/57921724/XrayR/blob/master/README-vi.md), [English(en) README](https://github.com/57921724/XrayR/blob/master/README-en.md)
 
 یک فریمورک بک اند مبتنی بر xray که از چند از پنل پشتیبانی می کند
 
@@ -65,7 +63,7 @@
 ### نصب بصورت یکپارچه
 
 ```
-wget -N https://raw.githubusercontent.com/XrayR-project/XrayR-release/master/install.sh && bash install.sh
+wget -N https://raw.githubusercontent.com/57921724/XrayR-release/master/install.sh && bash install.sh
 ```
 
 ### استقرار نرم افزار با استفاده از Docker
@@ -89,16 +87,11 @@ wget -N https://raw.githubusercontent.com/XrayR-project/XrayR-release/master/ins
 
 ## Licence
 
-[Mozilla Public License Version 2.0](https://github.com/XrayR-project/XrayR/blob/master/LICENSE)
+[Mozilla Public License Version 2.0](https://github.com/57921724/XrayR/blob/master/LICENSE)
 
-## Telgram
-
-[بحث در مورد XrayR Backend](https://t.me/XrayR_project)
-
-[کانال اعلان در مورد XrayR](https://t.me/XrayR_channel)
 
 ## Stargazers over time
 
-[![Stargazers over time](https://starchart.cc/XrayR-project/XrayR.svg)](https://starchart.cc/XrayR-project/XrayR)
+[![Stargazers over time](https://starchart.cc/57921724/XrayR.svg)](https://starchart.cc/57921724/XrayR)
 
 
